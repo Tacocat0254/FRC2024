@@ -1,0 +1,6 @@
+com.pathplanner.lib.auto
+com.pathplanner.lib.commands
+com.pathplanner.lib.controllers
+com.pathplanner.lib.path
+com.pathplanner.lib.pathfinding
+com.pathplanner.lib.util
